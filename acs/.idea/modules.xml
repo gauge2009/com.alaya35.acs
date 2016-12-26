@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/acs.iml" filepath="$PROJECT_DIR$/acs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scalalab/scalalab.iml" filepath="$PROJECT_DIR$/scalalab/scalalab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vlab/vlab.iml" filepath="$PROJECT_DIR$/vlab/vlab.iml" />
+    </modules>
+  </component>
+</project>
