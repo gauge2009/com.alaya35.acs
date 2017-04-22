@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/acs.iml" filepath="$PROJECT_DIR$/acs.iml" />
       <module fileurl="file://$PROJECT_DIR$/scalalab/scalalab.iml" filepath="$PROJECT_DIR$/scalalab/scalalab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparksqllab/sparksqllab.iml" filepath="$PROJECT_DIR$/sparksqllab/sparksqllab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparksqllabv/sparksqllabv.iml" filepath="$PROJECT_DIR$/sparksqllabv/sparksqllabv.iml" />
       <module fileurl="file://$PROJECT_DIR$/vlab/vlab.iml" filepath="$PROJECT_DIR$/vlab/vlab.iml" />
     </modules>
   </component>

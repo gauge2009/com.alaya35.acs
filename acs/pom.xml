@@ -11,6 +11,8 @@
     <modules>
         <module>vlab</module>
         <module>scalalab</module>
+        <module>sparksqllab</module>
+        <module>sparksqllabv</module>
     </modules>
 
 

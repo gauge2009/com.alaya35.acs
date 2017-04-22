@@ -7,13 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="scalalab" />
+        <module name="sparksqllab" />
+        <module name="sparksqllabv" />
         <module name="vlab" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="acs" target="1.5" />
       <module name="scalalab" target="1.6" />
-      <module name="vlab" target="1.6" />
+      <module name="sparksqllab" target="1.6" />
+      <module name="sparksqllabv" target="1.6" />
+      <module name="vlab" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
